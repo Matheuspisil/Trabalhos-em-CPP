@@ -14,3 +14,4 @@ int main()
  cout <<fibonacci<<"\n";
  }
 }
+//fomula de fibonacci em ação.//
