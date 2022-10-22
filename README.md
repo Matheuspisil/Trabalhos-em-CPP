@@ -3,20 +3,20 @@
 <hr>
 
 :calling: Calculadora simples<br>
-	Calculadora com as soluções de nivel primario.
+	-Calculadora com as soluções de nivel primario.
 	adição, subtração, multiplicação e divisão.
 
 :person_fencing: Competidores dividos por classes de idade.<br>
-	uma automação que define a categoria dos competidores por idade.
+	-Uma automação que define a categoria dos competidores por idade.
 	Ao exibir para o programa uma determinada idade ele definirá,
 	em qual categoria o competidor irá participar, sendo...
-	infantil até 12 anos , juvenil até 17 anos, adulto até 49 anos e senior 50 mais!
+	infantil até 12 anos , juvenil até 17 anos, adulto até 49 anos e senior 50 anos!
 
-:1234: Formula de Fibonacci com "For"
-	fomula de fibonacci com C++ 
+:1234: Formula de Fibonacci com "For"<br>
+	-Fomula de fibonacci
 
 :v:Jogo de Par ou Impar<br>
-	Com esse código temos 10 partidas de par ou impar, sendo A par e B impar. 
+	-Com esse código temos 10 partidas de par ou impar, sendo A par e B impar. 
 	a ideia é que os jogadores escolham e não possam ver a escolha do adversário até o fim das 10 jogadas. 
 
 :triangular_ruler: Nome do Triangulo.<br>
